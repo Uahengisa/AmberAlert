@@ -5,25 +5,25 @@
  In this project were going to be creating an " Amber " Alert System for Namibia. 
 
 Note:
-this is a dummy Project so feel free to change edit commit, push, pull and merge to your hearts content..
-(those terms will make sense as you go along).
+    this is a dummy Project so feel free to change edit commit, push, pull and merge to your hearts content..
+    (those terms will make sense as you go along).
 
 now, while this is just a dummy project that doesnt mean you should make breaking changes just for the sake of it.
 POV: 
- 1.1 I wana try adding this change to see if my new feature works.
- 1.2 I wanna press merge with main to see what effects that will have.
- 1.3 I wanna Delete this (please dont if you dont have too) cause its giving me an error.
- 1.3.1 If you wanna remove a bit of code cause its causing confilcts, 
-        rather comment it out then delete it till your completely sure its not going to effect anything else.
- 1.4 I wanna adit this Method So it also does this.
+    1.1 I wana try adding this change to see if my new feature works.
+    1.2 I wanna press merge with main to see what effects that will have.
+    1.3 I wanna Delete this (please dont if you dont have too) cause its giving me an error.
+    1.3.1 If you wanna remove a bit of code cause its causing confilcts, 
+        - rather comment it out then delete it till your completely sure its not going to effect anything else.
+    1.4 I wanna adit this Method So it also does this.
 
  => In this project, all of these are fine... please feel free to try out anything you want to here.
 
  POV: 
-  2.1 I wanna delete all of these files just cause 
-  2.2 I wanna delete this branch (Not your branch just any ol branch you see)
-  2.3 I wanna name my files somthing Provocativ cause thats kinda funny.
-  2.4 I wanna name my variabls (Dick, Pussy, Vibrator)... anything of that nature.
+    2.1 I wanna delete all of these files just cause 
+    2.2 I wanna delete this branch (Not your branch just any ol branch you see)
+    2.3 I wanna name my files somthing Provocativ cause thats kinda funny.
+    2.4 I wanna name my variabls (Dick, Pussy, Vibrator)... anything of that nature.
 
   => none of this is ohk, The core function of these rules are to teach you guys about Responsibility , accountability and professional curtisy.
 
@@ -57,9 +57,9 @@ b. Cloning
     1. Angular CLI  -V 12+
     2. .Net Core 5
     Nuget Packages:
-        I)  Microsoft.AspNetCore.OData
-        II) Microsoft.EntityFrameworkCore
-        II) 
+    I)  Microsoft.AspNetCore.OData
+    II) Microsoft.EntityFrameworkCore
+    II) 
         
         
 # Build and Test
