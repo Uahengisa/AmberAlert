@@ -1,20 +1,68 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+                                            Welcome Team [ ! ]
+ This Reason for this Project is for it be used as an  Introduction to the World Of Dev Ops,
+
+ In this project were going to be creating an " Amber " Alert System for Namibia. 
+
+##Note:
+    1. this is a dummy Project so feel free to change edit commit, push, pull and merge to your hearts content..
+        (those terms will make sense as you go along).
+        now, while this is just a dummy project that doesnt mean you should make breaking changes just for the sake of it.
+##POV: 
+    1. I wana try adding this change to see if my new feature works.
+    2. I wanna press merge with main to see what effects that will have.
+    3. I wanna Delete this (please dont if you dont have too) cause its giving me an error.
+    4. If you wanna remove a bit of code cause its causing confilcts, 
+        - rather comment it out then delete it till your completely sure its not going to effect anything else.
+    5. I wanna adit this Method So it also does this.
+
+###=> In this project, all of these are fine... please feel free to try out anything you want to here.
+
+##POV: 
+    1. I wanna delete all of these files just cause 
+    2. I wanna delete this branch (Not your branch just any ol branch you see)
+    3. I wanna name my files somthing Provocativ cause thats kinda funny.
+    4. I wanna name my variabls (Dick, Pussy, Vibrator)... anything of that nature.
+
+###=> none of this is ohk, The core function of these rules are to teach you guys about Responsibility , accountability and professional curtisy.
+
+  lets all try to understand these rules and have Fun coding like real Programmers [ ! ] 
 
 # Getting Started
+
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
 1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
 
+#Downloads
+
+##Install Microsoft Visual Studio 2019 - Community
+###Inside Visual Studio select the following during the Installation process
+                (Web & Cloud)
+       1. ASP.NET and web Development
+       2. Azure Development
+                (desktop & Mobile)
+       3. .NET desktop Development
+       4.  Desktop Development With C++
+       5. Mobile Development With .NET
+                (Other Toolsets)
+       6. Data Storage And Processing
+       7. .NET Cross-Platform Development
+
+Note: This Download is about +- 18GB, So expect a long wait time, Id advice downloading it over Wifi or Happy Hour.
+(if you cant Download it due to a lack of connectivity @Me so I help you out. ) 
+
+#Cloning
+-
+2.	Software dependencies
+    1. Angular CLI  -V 12+
+    2. .Net Core 5
+     Nuget Packages:
+     1.  Microsoft.AspNetCore.OData
+     2. Microsoft.EntityFrameworkCore
+     3. 
+        
+        
 # Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+ 
 
 # Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
