@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magdalena-shannon", "Magdalena-shannon.csproj", "{3BF977BE-D391-4FAD-92FD-2B4469AEF438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{17A3E0BA-5269-4BCE-9C5C-9540CCE21154}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BF977BE-D391-4FAD-92FD-2B4469AEF438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF977BE-D391-4FAD-92FD-2B4469AEF438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF977BE-D391-4FAD-92FD-2B4469AEF438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF977BE-D391-4FAD-92FD-2B4469AEF438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A3E0BA-5269-4BCE-9C5C-9540CCE21154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A3E0BA-5269-4BCE-9C5C-9540CCE21154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A3E0BA-5269-4BCE-9C5C-9540CCE21154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A3E0BA-5269-4BCE-9C5C-9540CCE21154}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82ECEA70-6F01-4AD6-BD5D-3E281E50DC57}
+	EndGlobalSection
+EndGlobal
