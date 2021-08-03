@@ -22,19 +22,20 @@ namespace Magdalena_shannon
 		public void ConfigureServices(IServiceCollection services)
 		{
 			services.AddRouting();
-			services.AddControllers().AddOData(
-								opt => opt.AddRouteComponents("odata", GetEdmModel(), new DefaultODataBatchHandler())
-										.Select()
-										.Filter()
-										.OrderBy()
-										.Count()
-										.Expand()
-										.SetMaxTop(null)
-										);
-			services.AddControllersWithViews();
-			services.AddDbContext<UserDbContext>(opt =>
-						opt.UseSqlServer(Configuration.GetConnectionString("UserDbContextLive")));
-			services.AddRazorPages();
+			//services.AddControllers().AddOData(
+			//					opt => opt.AddRouteComponents("odata", GetEdmModel(), new DefaultODataBatchHandler())
+			//							.Select()
+			//							.Filter()
+			//							.OrderBy()
+			//							.Count()
+			//							.Expand()
+			//							.SetMaxTop(null)
+			//							);
+			//services.AddControllersWithViews();
+
+			//services.AddDbContext<UserDbContext>(opt =>
+			//			opt.UseSqlServer(Configuration.GetConnectionString("UserDbContextLive")));
+			//services.AddRazorPages();
 
 
 
