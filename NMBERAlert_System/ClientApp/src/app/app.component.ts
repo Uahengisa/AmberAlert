@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-// import { title } from 'process';
+
 
 @Component({
   selector: 'app-root',
@@ -15,12 +15,8 @@ export class AppComponent {
   }
 
   ngOnInit() {
-    function onClick(){
-      document.write("Hello");
-    }
+
   }
-  onClick(name:string){
-    console.log(name)
-  }
+
 }
 
