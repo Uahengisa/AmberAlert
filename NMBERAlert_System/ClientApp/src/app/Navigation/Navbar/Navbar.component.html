@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<!-- <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="#">NMBERAlert_System</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -34,13 +34,23 @@
   </div>
 </nav>
 
-
+<app-auth-nav></app-auth-nav>
 <div *ngIf="userIsRegistered; then thenBlock else elseBlock"></div>
 <ng-template #thenBlock>
 <h1>LoggedIn</h1>
+<!-- <app-auth-nav></app-auth-nav> -
 </ng-template>
 <ng-template #elseBlock>
   <h1>NotLoggedIn</h1>
-
+  <!-- <app-auth-nav></app-auth-nav>
 </ng-template>
-<!-- ?? -->
+?? -->
+<div class="nav-container mb-3">
+  <nav class="navbar navbar-expand-md navbar-light bg-light">
+    <div class="container">
+      <div class="navbar-brand logo"></div>
+      <!-- <app-main-nav></app-main-nav> -->
+      <app-auth-nav></app-auth-nav>
+    </div>
+  </nav>
+</div>

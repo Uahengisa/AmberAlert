@@ -12,10 +12,37 @@ namespace Models
 	{
 		[Key, DatabaseGenerated(DatabaseGeneratedOption.Identity)]
 		public int Id { get; set; }
+
 		[DatabaseGenerated(DatabaseGeneratedOption.Identity)]
 		public Guid UserGuid { get; set; }
 		public string Username { get; set; }
 		public string LoginKey { get; set; }
 		public string DisplayName { get; set; }
+
 	}
 }
+
+
+/*
+ 
+ 
+ START
+1. DECLARE VARIABLE NAME
+
+2. PRINT("ENTER NAME: ")
+
+3. SAVE NAME
+
+4. PRINT $NAME
+
+END
+ 
+ 
+ 
+ */
+
+
+
+
+
+

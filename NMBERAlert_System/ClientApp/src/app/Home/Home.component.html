@@ -1,3 +1,15 @@
-<p>
-  Home works!
-</p>
+<div *ngIf="true; then thenBlock else elseBlock"></div>
+
+<ng-template #thenBlock>
+
+  <app-Navbar></app-Navbar>
+
+</ng-template>
+
+<ng-template #elseBlock>
+
+  <app-SideBar></app-SideBar>
+
+</ng-template>
+
+<!-- ?? -->
