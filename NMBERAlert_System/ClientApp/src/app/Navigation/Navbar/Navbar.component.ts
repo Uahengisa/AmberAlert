@@ -7,9 +7,20 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NavbarComponent implements OnInit {
   userIsRegistered = true;
+  isExpanded = false;
   constructor() { }
 
   ngOnInit() {
+
+
+    
+  }
+  collapse() {
+    this.isExpanded = false;
+  }
+
+  toggle() {
+    this.isExpanded = !this.isExpanded;
   }
 
 }
